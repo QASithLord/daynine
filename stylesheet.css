@@ -1,0 +1,21 @@
+div {
+	height: 50px;
+	width: 120px;
+	border-color:#6495ed;
+	background-color:#bcd2ee;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	font-family: cursive, arial;
+}
+
+/*border-radius gives rounded corners.*/
+
+div div p {
+	background-color: gray;
+}
